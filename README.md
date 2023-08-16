@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋🏻, I'm Hamed</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/media/49e78263e3d15f2adaa0793b3179b74a.gif">
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **hamedpyn@gmail.com**
