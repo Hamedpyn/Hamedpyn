@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/278287/screenshots/1343921/media/49e78263e3d15f2adaa0793b3179b74a.gif">
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **hamedpyn@gmail.com**
 
